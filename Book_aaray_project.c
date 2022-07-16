@@ -21,6 +21,7 @@
 		display(brr,3);
 	}
 	
+	//Store function
 	void store(book* brr,int size)
 	{
 		int i;
